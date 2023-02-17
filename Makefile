@@ -1,6 +1,3 @@
-# Starter Makefile
-# add .cpp and .h files as specified in each task. 
-
 main: main.o reservoir.o reverseorder.o
 	g++ -o main main.o reservoir.o reverseorder.o
 

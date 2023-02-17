@@ -21,5 +21,6 @@ int main()
   std::cout << compare_basins("10/24/2018")<<"\n";
   //TASK D
   reverse_order("04/03/2018", "10/24/2018");
+  reverse_order("01/01/2018", "12/31/2018");
   return 0;
 }

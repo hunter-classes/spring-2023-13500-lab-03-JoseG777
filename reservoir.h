@@ -1,5 +1,9 @@
 #pragma once
 #include <string>
+#include <fstream>
+#include <cstdlib>
+#include <climits>
+#include <vector>
 
 double get_east_storage(std::string date);
 
